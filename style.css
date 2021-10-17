@@ -1,0 +1,9 @@
+body{
+    background-color: rgb(228, 0, 0);
+}
+h1{
+    text-align: center;
+    color: gold;
+    font-size: 4em;
+    text-shadow: 40px 40px 0px blue
+}
